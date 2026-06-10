@@ -1,4 +1,6 @@
-theme: minima
-title: aliceylu's personal blog
-description: This is where I share my personal projects
+---
+layout: default
+title: Home
 author: aliceylu
+---
+<h1>{{ "Personal projects" | downcase }}</h1>

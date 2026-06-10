@@ -2,5 +2,6 @@
 layout: default
 title: Home
 author: aliceylu
+theme: chirpy
 ---
 <h1>{{ "Personal projects" | downcase }}</h1>
